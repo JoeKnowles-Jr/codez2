@@ -1,0 +1,144 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:mapbox="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:id="@+id/ll_code_edit"
+    android:background="#666"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:background="@drawable/rounded_rect_blue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView android:id="@+id/tv_mode"
+            android:textSize="33sp"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/etNum"
+        android:paddingStart="7dp"
+        android:paddingEnd="7dp"
+        android:inputType="text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="4dp"
+        android:hint="@string/numhint"
+        android:textColorHint="@color/blue_500"
+        android:importantForAutofill="no" />
+    <EditText
+        android:id="@+id/etStreet"
+        android:paddingStart="7dp"
+        android:paddingEnd="7dp"
+        android:inputType="text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="16dp"
+        android:fontFamily="sans-serif"
+        android:importantForAutofill="no"
+        android:textColorHint="@color/blue_500"
+        android:hint="@string/street"/>
+    <EditText
+        android:id="@+id/etCodes"
+        android:paddingStart="7dp"
+        android:paddingEnd="7dp"
+        android:inputType="text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="4dp"
+        android:importantForAutofill="no"
+        android:textColorHint="@color/blue_500"
+        android:hint="@string/code" />
+    <EditText
+        android:id="@+id/etNotes"
+        android:paddingStart="7dp"
+        android:paddingEnd="7dp"
+        android:inputType="text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="16dp"
+        android:fontFamily="sans-serif"
+        android:importantForAutofill="no"
+        android:textColorHint="@color/blue_500"
+        android:hint="@string/notes"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp">
+
+        <Button
+            android:id="@+id/move_pin_set"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+            android:background="@color/cardview_dark_background"
+            android:text="@string/set_pin"
+            android:textColor="@android:color/white"
+            tools:ignore="RelativeOverlap" />
+
+        <com.mapbox.mapboxsdk.maps.MapView
+            android:id="@+id/mv_edit"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            mapbox:mapbox_cameraTargetLat="32.9777"
+            mapbox:mapbox_cameraTargetLng="-96.749"
+            mapbox:mapbox_cameraZoom="17" />
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        tools:ignore="ButtonStyle"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+
+        <Button
+            android:id="@+id/btnSave"
+            android:layout_width="0dp"
+            android:textSize="13sp"
+            android:background="#33333333"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="@string/save"/>
+
+        <Button
+            android:id="@+id/btnCancel"
+            android:layout_width="0dp"
+            android:textSize="13sp"
+            android:background="#33333333"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="@string/cancel" />
+
+        <Button
+            android:id="@+id/btnDelete"
+            android:layout_width="0dp"
+            android:textSize="13sp"
+            android:background="#33333333"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="@string/delete" />
+
+    </LinearLayout>
+
+</LinearLayout>

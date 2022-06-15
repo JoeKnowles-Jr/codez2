@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_200">#FF3386FC</color>
+    <color name="blue_500">#FF3333FC</color>
+    <color name="blue_700">#FF0000FF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="md_white_1000">#FFFFFF</color>
+    <color name="md_blue_grey_500">#607D8B</color>
+    <color name="dialog_error_darker">#E53935</color>
+    <color name="dialog_warning_darker">#F9A825</color>
+    <color name="dialog_info_darker">#1565C0</color>
+    <color name="dialog_success_darker">#43A047</color>
+    <color name="dialog_success">#48D865</color>
+    <color name="dialog_error">#FF6B5F</color>
+    <color name="dialog_info">#3086EB</color>
+    <color name="dialog_warning">#FFC122</color>
+    <color name="red_connectify">#EB1F5D</color>
+    <color name="green_connectify">#61C730</color>
+    <color name="dark_background">#2F3032</color>
+</resources>

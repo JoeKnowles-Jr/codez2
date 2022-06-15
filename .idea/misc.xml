@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Android/codez/codez/app/src/main/res/layout-v28/item_detail.xml" value="0.21875" />
+        <entry key="..\:/Projects/Android/codez/codez/app/src/main/res/layout/activity_pin_set.xml" value="0.38697916666666665" />
+        <entry key="..\:/Projects/Android/codez/codez/app/src/main/res/layout/dialog_code_edit.xml" value="0.276268115942029" />
+        <entry key="..\:/Projects/Android/codez/codez/app/src/main/res/layout/fragment_first.xml" value="0.21875" />
+        <entry key="..\:/Projects/Android/codez/codez/app/src/main/res/layout/item_detail.xml" value="0.21875" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/drawable-v24/btn_blue_normal.xml" value="0.34629629629629627" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/drawable-v24/btn_blue_selector.xml" value="0.32685185185185184" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/drawable-v24/btn_yellow_pressed.xml" value="0.23489583333333333" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/drawable-v24/ic_check_circle_green_24dp.xml" value="0.28020833333333334" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/drawable-v24/ic_info_blue_24dp.xml" value="0.28020833333333334" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.35648148148148145" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/drawable-v24/ic_signal_wifi_off_white_24dp.xml" value="0.35648148148148145" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/drawable-v24/ic_tick.xml" value="0.35648148148148145" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/drawable-v24/linear_red_gradient_connectify.xml" value="0.34629629629629627" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/drawable-v24/rounded_rect_blue.xml" value="0.34629629629629627" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/drawable/divider_blue.xml" value="0.34629629629629627" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/drawable/ic_baseline_dialpad_24.xml" value="0.28020833333333334" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/drawable/ic_launcher_background.xml" value="0.35648148148148145" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/drawable/search_background.xml" value="0.3388888888888889" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout-v28/item_search.xml" value="0.38697916666666665" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout/activity_main.xml" value="0.18819655521783182" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout/activity_test.xml" value="0.3813405797101449" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout/content_main.xml" value="0.21875" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout/dialog_code_edit.xml" value="0.3813405797101449" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout/dialog_connectify_error.xml" value="0.21875" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout/dialog_connectify_success.xml" value="0.21875" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout/dialog_drake_error.xml" value="0.21875" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout/dialog_drake_success.xml" value="0.37681159420289856" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout/dialog_emoji.xml" value="0.37681159420289856" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout/dialog_emotion.xml" value="0.37228260869565216" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout/dialog_flash.xml" value="0.37228260869565216" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout/dialog_flat.xml" value="0.37228260869565216" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout/dialog_rainbow.xml" value="0.37228260869565216" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout/dialog_toaster.xml" value="0.37681159420289856" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout/fragment_first.xml" value="0.3813405797101449" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout/fragment_second.xml" value="0.1" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout/item_search.xml" value="0.38697916666666665" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout/item_search_detail.xml" value="0.38697916666666665" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/layout/item_view.xml" value="0.3813405797101449" />
+        <entry key="..\:/Projects/Codez/app/src/main/res/menu/menu_main.xml" value="0.38697916666666665" />
+        <entry key="..\:/Projects/code/codez2/codez/app/src/main/res/layout/activity_main.xml" value="0.12107396149949341" />
+        <entry key="..\:/Projects/code/codez2/codez/app/src/main/res/layout/content_main.xml" value="0.18819655521783182" />
+        <entry key="..\:/Projects/code/codez2/codez/app/src/main/res/layout/fragment_first.xml" value="0.22" />
+        <entry key="..\:/Projects/code/codez2/codez/app/src/main/res/layout/fragment_local.xml" value="0.18819655521783182" />
+        <entry key="..\:/Projects/code/codez2/codez/app/src/main/res/layout/layout_codez_fragment.xml" value="0.4519464720194647" />
+        <entry key="..\:/Projects/code/codez2/codez/app/src/main/res/layout/layout_connection_input.xml" value="0.18768996960486323" />
+        <entry key="..\:/Projects/code/codez2/codez/app/src/main/res/menu/menu_main.xml" value="0.3490740740740741" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

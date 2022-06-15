@@ -1,0 +1,45 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Codez</string>
+    <string name="action_stats">Stats</string>
+    <string name="access_token" translatable="false" tools:ignore="Typos">pk.eyJ1IjoiamtoaXBwaWUiLCJhIjoiY2pkd3ZwcmZsMXpxNzJwdDN0Zmhxc3p2YyJ9.j0Fgr_VMf4h5sMU0vhHjLw</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Codez</string>
+    <string name="second_fragment_label">Stats</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="fab">fab</string>
+    <string name="button">button</string>
+    <string name="numhint">Number - Use 0 for neighborhood gate</string>
+    <string name="street">Street</string>
+    <string name="code">Codes</string>
+    <string name="notes">Notes</string>
+    <string name="addcode">Add Code</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="success">Success</string>
+    <string name="anyone_with_access_can_view_your_invited_visitors">Anyone with access can view your invited visitors</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="editcode">Edit Code</string>
+    <string name="stats">Stats</string>
+    <string name="search_here">Search Here</string>
+    <string name="set_pin">Set Pin</string>
+    <string name="set_position">Set Position</string>
+    <string name="user_location_permission_explanation">Need your location</string>
+    <string name="user_location_permission_not_granted">WHERE ARE YOU?!</string>
+    <string name="place_pin">Place Pin</string>
+    <string name="number">Number</string>
+    <string name="reverse">Reverse</string>
+    <string name="local_fragment_label">Local</string>
+    <string name="remote_fragment_label">Remote</string>
+    <string name="action_remote">Remote</string>
+    <string name="action_local">Local</string>
+    <string name="action_connection">Connection</string>
+    <string name="set_connection">Set Connection</string>
+    <string name="current_connection">Current Connection</string>
+    <string name="none">None</string>
+    <string name="set">Set</string>
+    <string name="enter_url">Enter url</string>
+</resources>
